@@ -2,7 +2,7 @@
 
   ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,2,26&height=200&section=header&text=Vision%20Sapkota&fontSize=80&fontColor=bd93f9&animation=twinkling&desc=Student%20%2F%20Curious%20%2F%20VIT&descSize=20&descAlignY=60)
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=RKB-vision&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=RKB-vision&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
   <br/>
   <img src="https://i.imgur.com/Z4Ci8c0.gif" width="100%" height="2px" />
