@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Hello%20There!&fontSize=70&fontColor=87CEEB&animation=fadeIn&desc=I%20am%20Vision...%20Vision%20Sapkota&descSize=25&descAlignY=65&fontAlignY=40" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello+There!;I+am+Vision;Vision+Sapkota" alt="Typing SVG" />
+  </a>
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="350" />
 
