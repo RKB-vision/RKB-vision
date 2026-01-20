@@ -10,6 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="350" />
 
+### 💡 Daily Quote
+[![Programming Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&bg_color=000000&hide_border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### 🧊 About Me
 I am a student at **VIT Vellore**. I focus on core engineering skills and building efficient software. I prefer clean, dark aesthetics and minimal workflows.
 
@@ -34,19 +37,12 @@ I am a student at **VIT Vellore**. I focus on core engineering skills and buildi
 
 ---
 
-### 🐍 Contribution Snake
-*Note: This will appear once the GitHub Action runs.*
-![Snake animation](https://github.com/RKB-vision/RKB-vision/blob/output/github-snake-dark.svg)
-
----
-
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vision-sapkota/)
 [![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://www.visions.com.np)
 
 <br />
 
-### 💡 Daily Quote
-[![Programming Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&bg_color=000000&hide_border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 </div>
