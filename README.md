@@ -1,7 +1,7 @@
 <div align="center">
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=250&section=header&text=Vision%20Sapkota&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Curious%20%7C%20VIT%20Vellore&descAlignY=51&descAlign=62)
-
+  <img src="https://komarev.com/ghpvc/?username=RKB-vision&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://media.giphy.com/media/L1R1TVThqceKUBwOV0/giphy.gif" width="400" />
 
   ### 🧊 About Me
@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
   <br />
+  
+  ### 🐍 My Contribution Snake
+  <img src="https://github.com/RKB-vision/RKB-vision/blob/output/github-snake.svg" alt="Snake animation"/>
 
   ### 📊 GitHub Stats
 
@@ -43,5 +46,6 @@
   <br />
   
   <p align="right">Thanks for visiting!</p>
-<img src="https://komarev.com/ghpvc/?username=RKB-vision&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
 </div>
