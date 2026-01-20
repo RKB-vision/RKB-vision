@@ -1,41 +1,47 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,2,26&height=200&section=header&text=Vision%20Sapkota&fontSize=80&fontColor=bd93f9&animation=twinkling&desc=Student%20%2F%20Curious%20%2F%20VIT&descSize=20&descAlignY=60)
-  
-<img src="https://komarev.com/ghpvc/?username=RKB-vision&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  <br/>
-  <img src="https://i.imgur.com/Z4Ci8c0.gif" width="100%" height="2px" />
-  <h3>Current Status: 👨‍💻 Building Skills</h3>
-  <img src="https://i.imgur.com/Z4Ci8c0.gif" width="100%" height="2px" />
-  <br/>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=250&section=header&text=Vision%20Sapkota&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Curious%20%7C%20VIT%20Vellore&descAlignY=51&descAlign=62)
 
-  ### 🚀 The Stack
-  
-  <p>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/MacOS-User-000000?style=flat&logo=apple&logoColor=white" />
-  </p>
+  <img src="https://media.giphy.com/media/L1R1TVThqceKUBwOV0/giphy.gif" width="400" />
 
-  ### ⚡ Stats
+  ### 🧊 About Me
+  
+  I am a student currently studying at **VIT (Vellore)**. I am deeply curious about how things work under the hood. I am currently focusing on building my core skills and exploring new technologies.
+  
+  ---
+  
+  ### 🛠️ Languages & Tools
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+  <br />
+
+  ### 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RKB-vision&show_icons=true&theme=dracula&hide_border=true" alt="Vision's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKB-vision&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RKB-vision&show_icons=true&theme=nord&hide_border=true&bg_color=transparent" alt="Vision's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKB-vision&layout=compact&theme=nord&hide_border=true&bg_color=transparent" alt="Top Languages" />
   </p>
 
   ---
   
-  ### 🤝 Let's Connect
+  ### 📬 Connect with Me
 
-  [<img src="https://img.shields.io/badge/LinkedIn-vision--sapkota-0077B5?style=flat-square&logo=linkedin">](https://www.linkedin.com/in/vision-sapkota/)
-  [<img src="https://img.shields.io/badge/Website-visions.com.np-ff79c6?style=flat-square&logo=google-chrome&logoColor=white">](https://www.visions.com.np)
+  <a href="https://www.linkedin.com/in/vision-sapkota/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.visions.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-Website-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
 
   <br />
-  <p align="center"><i>Thanks for stopping by!</i></p>
+  <br />
+  
+  <p align="right">Thanks for visiting!</p>
 
 </div>
