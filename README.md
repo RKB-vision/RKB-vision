@@ -46,6 +46,6 @@
   <br />
   
   <p align="right">Thanks for visiting!</p>
-
+![[Programming Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
