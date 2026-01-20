@@ -8,7 +8,7 @@
 
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF6YmN6bmZ6Znd6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f3iwJFOVOLx77XvePD/giphy.gif" width="350" />
+<img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" width="350" />
 
 ### 🧊 About Me
 I am a student at **VIT Vellore**. I focus on core engineering skills and building efficient software. I prefer clean, dark aesthetics and minimal workflows.
