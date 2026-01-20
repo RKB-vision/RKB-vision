@@ -1,10 +1,12 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Vision%20Sapkota&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Student%20%7C%20VIT%20Vellore&descSize=20)
-
+  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RKB-vision&label=Views&color=000000&style=flat-square" alt="Profile Views" />
 </p>
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Vision%20Sapkota&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Student%20%7C%20VIT%20Vellore&descSize=20)
+
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF6YmN6bmZ6Znd6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f3iwJFOVOLx77XvePD/giphy.gif" width="350" />
 
