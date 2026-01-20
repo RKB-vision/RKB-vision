@@ -1,6 +1,8 @@
 <div align="center">
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=250&section=header&text=Vision%20Sapkota&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Curious%20%7C%20VIT%20Vellore&descAlignY=51&descAlign=62)
+  
+<img src="https://komarev.com/ghpvc/?username=RKB-vision&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" align="left" />
 
   <img src="https://media.giphy.com/media/L1R1TVThqceKUBwOV0/giphy.gif" width="400" />
 
@@ -20,6 +22,17 @@
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
   <br />
+
+  ### 💻 Tech Stack
+| Languages | Frontend | Backend/Tools |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white) |
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+  
+  ### 🐍 My Contribution Snake
+![Snake animation](https://github.com/RKB-vision/RKB-vision/blob/output/github-snake.svg)
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=RKB-vision&theme=nord&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
   ### 📊 GitHub Stats
 
@@ -43,5 +56,7 @@
   <br />
   
   <p align="right">Thanks for visiting!</p>
-
+  
+  "Thinking is the hardest work there is, which is probably the reason why so few engage in it." 
+ ![[Programming Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
