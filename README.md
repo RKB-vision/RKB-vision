@@ -4,8 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=RKB-vision&label=Views&color=000000&style=flat-square" alt="Profile Views" />
 </p>
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Vision%20Sapkota&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Student%20%7C%20VIT%20Vellore&descSize=20)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Hello%20There!&fontSize=70&fontColor=87CEEB&animation=fadeIn&desc=I%20am%20Vision...%20Vision%20Sapkota&descSize=25&descAlignY=65&fontAlignY=40" />
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="350" />
