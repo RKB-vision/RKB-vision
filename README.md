@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RKB-vision/RKB-vision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=250&section=header&text=Vision%20Sapkota&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Curious%20%7C%20VIT%20Vellore&descAlignY=51&descAlign=62)
 
-Here are some ideas to get you started:
+  <img src="https://media.giphy.com/media/L1R1TVThqceKUBwOV0/giphy.gif" width="400" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 🧊 About Me
+  
+  I am a student currently studying at **VIT (Vellore)**. I am deeply curious about how things work under the hood. I am currently focusing on building my core skills and exploring new technologies.
+  
+  ---
+  
+  ### 🛠️ Languages & Tools
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+  <br />
+
+  ### 📊 GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vision-sapkota&show_icons=true&theme=nord&hide_border=true&bg_color=transparent" alt="Vision's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vision-sapkota&layout=compact&theme=nord&hide_border=true&bg_color=transparent" alt="Top Languages" />
+  </p>
+
+  ---
+  
+  ### 📬 Connect with Me
+
+  <a href="https://www.linkedin.com/in/vision-sapkota/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.visions.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-Website-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+
+  <br />
+  <br />
+  
+  <p align="right">Thanks for visiting!</p>
+
+</div>
